@@ -123,8 +123,6 @@ void GNSN_WProbCalc::CalcSSRWeapon()
   mpf_mul(gC, gA, gB); // Store in "gC", 0.75 * 0.5 = 37.5% chance to be the specific five-star.
                        // - Coincidentally, it's also 37.5% chance to be one of the featured five-star, but not be the specific five-star.
 
-
-  // TODO: These variables are currently conflicting with old code.
   mpf_mul(gD,          // Probability for second five-star to be the specific five-star when the first was a featured five-star.
     gB,                // - 75% probability for first to be a featured five-star.
     gA);               // - 50% probability for the first to not be the specific five-star.

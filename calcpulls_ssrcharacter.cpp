@@ -6,8 +6,6 @@
 
 #include "calcpulls.h"
 
-// TODO: Some progress was made towards using a class to store results, but it's not complete, so this code shouldn't be ran while unfinished.
-
 // The documentation I, the programmer, read to make use of the "MPIR (Multiple Precision Integers and Rationals)" library that I decided to use.
 // http://www.mpir.org/mpir-3.0.0.pdf
 
