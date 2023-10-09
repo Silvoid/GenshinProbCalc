@@ -7,7 +7,7 @@
 #include "calcpulls.h"
 
 // The documentation I, the programmer, read to make use of the "MPIR (Multiple Precision Integers and Rationals)" library that I decided to use.
-// http://www.mpir.org/mpir-3.0.0.pdf
+// [Link is compromised.]
 
 // Reference(s) used for calculating probability.
 // https://www.hoyolab.com/article/497840
