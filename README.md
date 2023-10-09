@@ -5,4 +5,4 @@ Sources of information:
 - https://www.hoyolab.com/article/497840
 
 Libraries used:
-- https://mpir.org/
+- "MPIR" (link to the source is edited out for now due to the destination no longer being what it was. Commit history may reveal what the link was, but for now, not recommended to visit it.)
